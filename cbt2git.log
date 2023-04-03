@@ -1,0 +1,8 @@
+2023-04-03 02:56:53.289801 - Initialized conversion of CBT825
+2023-04-03 02:56:53.342378 - Received CBT.V504.FILE825.PDS from FILE825.XMI 
+2023-04-03 02:56:53.344698 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE825.PDS, moved to PDS/$$$#DATE
+2023-04-03 02:56:53.345670 - Found $$NOTE1.txt (text/plain) in CBT.V504.FILE825.PDS, moved to PDS/$$NOTE1
+2023-04-03 02:56:53.346729 - Found @FILE825.txt (text/plain) in CBT.V504.FILE825.PDS, moved to PDS/@FILE825
+2023-04-03 02:56:53.346740 - Found JSSLHAND.bin containing application/octet-stream, moved to PDS/JSSLHAND
+2023-04-03 02:56:53.348614 - Found README.txt (text/plain) in CBT.V504.FILE825.PDS, moved to PDS/README
+2023-04-03 02:56:53.349650 - Found SSLHAND.txt (text/plain) in CBT.V504.FILE825.PDS, moved to PDS/SSLHAND
