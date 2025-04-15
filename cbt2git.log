@@ -1,7 +1,7 @@
-2025-04-13 23:11:41.602585 - Received CBT.V508.FILE825.PDS from FILE825.XMI 
-2025-04-13 23:11:41.603301 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE825.PDS, moved to PDS/$$$#DATE
-2025-04-13 23:11:41.603374 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE825.PDS, moved to PDS/$$NOTE1
-2025-04-13 23:11:41.603438 - Found @FILE825.txt (text/plain) in CBT.V508.FILE825.PDS, moved to PDS/@FILE825
-2025-04-13 23:11:41.603505 - Found JSSLHAND.bin (application/octet-stream) in CBT.V508.FILE825.PDS, moved to PDS/JSSLHAND
-2025-04-13 23:11:41.603567 - Found README.txt (text/plain) in CBT.V508.FILE825.PDS, moved to PDS/README
-2025-04-13 23:11:41.603680 - Found SSLHAND.txt (text/plain) in CBT.V508.FILE825.PDS, moved to PDS/SSLHAND
+2025-04-15 05:53:49.080204 - Received CBT.V508.FILE825.PDS from FILE825.XMI 
+2025-04-15 05:53:49.081402 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE825.PDS, moved to PDS/$$$#DATE
+2025-04-15 05:53:49.081711 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE825.PDS, moved to PDS/$$NOTE1
+2025-04-15 05:53:49.081764 - Found @FILE825.txt (text/plain) in CBT.V508.FILE825.PDS, moved to PDS/@FILE825
+2025-04-15 05:53:49.082007 - Found JSSLHAND.bin (application/octet-stream) in CBT.V508.FILE825.PDS, moved to PDS/JSSLHAND
+2025-04-15 05:53:49.082219 - Found README.txt (text/plain) in CBT.V508.FILE825.PDS, moved to PDS/README
+2025-04-15 05:53:49.082757 - Found SSLHAND.txt (text/plain) in CBT.V508.FILE825.PDS, moved to PDS/SSLHAND
